@@ -11,8 +11,8 @@ const Country = (props) => {
          </div>
          <div className="card-body">
             <h2>{name.common}</h2>
-            <p>{capital}</p>
-            <p>{population}</p>
+            <p>Capital: {capital}</p>
+            <p>Population: {population}</p>
          </div>
       </div>
    );

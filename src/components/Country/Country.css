@@ -9,3 +9,12 @@
    flex-direction: column;
    justify-content: space-between;
 }
+
+.card-body h2 {
+   margin-top: 10px;
+   margin-bottom: 5px;
+}
+
+.card-body p {
+   font-size: 1.05em;
+}
